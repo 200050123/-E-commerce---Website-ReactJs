@@ -12,7 +12,7 @@
 
 This is an Web Application which is an e-commerce site. This Frontend is built in React with help of context API and other React Hooks. In this build used Context API (useReducer, createContext) to get data directly from the app component to the needy component. Used material UI for some icons. And Used the flexbox for the CSS parts. We can also include the login with the firebase system.
 
-Here's the feature's included in this project
+this is the feature's included in this project
 
 - 🌐 FULL Ecommerce functionality which includes both back-end and front-end
 - 👨‍👩‍👧‍👦 Login Page
@@ -26,12 +26,12 @@ Here's the feature's included in this project
 ## Technology stack used:
 ReactJs, Material UI, Context API, React-Courrency-Format, Firebase
 
-## Usage
+## uses
 
 To run the application locally; clone the repo, install dependencies and run the app.
 
 ```
-$ git clone https://github.com/shubham0794x/web-shopping
+$ git clone https://github.com/sagar0794x/web-shopping
 $ cd web-shopping
 $ npm && npm install
 ```
